@@ -1,0 +1,20 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Mesob is self-serving cafe system that allow the customer to choose from the menu , to pay and to track the order online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mesob-Project/back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mesob-Project/back-end/issues"
+  },
+  "homepage": "https://github.com/Mesob-Project/back-end#readme"
+}
