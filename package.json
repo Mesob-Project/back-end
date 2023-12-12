@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Mesob-Project/back-end/issues"
   },
-  "homepage": "https://github.com/Mesob-Project/back-end#readme"
+  "homepage": "https://github.com/Mesob-Project/back-end#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2"
+  }
 }
